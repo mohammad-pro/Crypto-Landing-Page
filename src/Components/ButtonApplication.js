@@ -8,7 +8,11 @@ const ButtonApplication = ({ show }) => {
         (show === "button" ? "md:hidden" : "hidden md:flex mt-12")
       }
     >
-      <a href="https://www.apple.com/app-store/" target="_blank">
+      <a
+        href="https://www.apple.com/app-store/"
+        target="_blank"
+        rel="noreferrer"
+      >
         <div className="flex   bg-[#D7C2FF] rounded-lg text-[rgb(27,0,78)] items-center py-1 px- ">
           <span className="h-10 sm:h-12">
             <svg
@@ -36,7 +40,7 @@ const ButtonApplication = ({ show }) => {
         </div>
       </a>
 
-      <a href="https://play.google.com/" target="_blank">
+      <a href="https://play.google.com/" target="_blank" rel="noreferrer">
         <div className="flex bg-[#D7C2FF] rounded-lg text-[rgb(27,0,78)] justify-center items-center py-1 px-2 ">
           <span className="h-10 flex items-center sm:h-12">
             <svg

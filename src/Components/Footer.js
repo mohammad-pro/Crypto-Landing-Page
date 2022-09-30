@@ -152,7 +152,7 @@ const Footer = () => {
           </div>
           {/* Social */}
           <div className="flex gap-x-3">
-            <a href="https://github.com/mohammad-pro" target="_blank">
+            <a href="https://github.com/mohammad-pro" target="_blank" rel="noreferrer" >
               <div className="w-8 h-8 rounded-xl border-[#616161] border-2 flex justify-center items-center hover:bg-[#EB5757] hover:border-[#EB5757] text-[#616161] hover:text-white transition-all duration-200 cursor-pointer">
                 <svg
                   fill="currentColor"
@@ -185,6 +185,7 @@ const Footer = () => {
             <a
               href="https://www.instagram.com/mohammad.frontend"
               target="_blank"
+              rel="noreferrer"
             >
               <div className="w-8 h-8 rounded-xl border-[#616161] border-2 flex justify-center items-center hover:bg-[#EB5757] hover:border-[#EB5757] text-[#616161] hover:text-white transition-all duration-200 cursor-pointer">
                 <span>

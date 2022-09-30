@@ -5,7 +5,7 @@ const BlockchainNewsCard = ({ value }) => {
 
   return (
     <>
-      <a href={url} target="_blank">
+      <a href={url} target="_blank" rel="noreferrer">
         <div
           className="bg-[#FFFFFF] rounded-xl shadow-lg hover:shadow-xl transition-all duration-150 cursor-pointer overflow-hidden  "
           // onClick={() => {
