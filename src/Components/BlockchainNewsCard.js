@@ -14,7 +14,7 @@ const BlockchainNewsCard = ({ value }) => {
         >
           {/* Head */}
 
-          <div className="bg-gray-200 h-52 w-full mb-6 ">
+          <div className="bg-gray-100 h-52 w-full mb-6 ">
             <img
               className="object-cover w-full h-full "
               src={img}
