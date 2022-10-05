@@ -3,7 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Demo Onilne
 [Click here](https://coruscating-khapse-9ab3ac.netlify.app/) to see the preview
-  
+ 
+# The packages used in this project
+  Redux toolkit, axios,React Router v6, 
 ## Available Scripts
 
 In the project directory, you can run:
