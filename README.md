@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Demo Onilne
-  [click hero](https://coruscating-khapse-9ab3ac.netlify.app/).
+[Click here](https://coruscating-khapse-9ab3ac.netlify.app/) to see the preview
   
 ## Available Scripts
 
